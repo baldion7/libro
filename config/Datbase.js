@@ -4,7 +4,7 @@ import { Comments } from '../models/CommentsModel.js';
 
 const db = new Sequelize("comentarios", "admin", "admin", {
     port:"3306",
-    host: "191.101.1.160",
+    host: "localhost",
     dialect: "mysql",
     freezeTableName: true
 });
