@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d5888301-17d8-4487-900a-c1e1321de0fd" name="comentarios">
+        <fileTransfer accessType="SFTP" host="82.180.132.143" port="22" sshConfigId="2909a7a6-e129-4948-85c1-f7b81ebb11c2" sshConfig="root@82.180.132.143:22 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
